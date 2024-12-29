@@ -1,4 +1,4 @@
-#<center>Preyecto MERN</center>
+#Preyecto MERN
 
 ![](https://gurzu.com/img/gurzu/mern-stack-01.webp)
 
